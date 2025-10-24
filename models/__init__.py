@@ -1,2 +1,1 @@
-# -*- coding: utf-8 -*-
-from . import expense
+from . import dorm_expense

@@ -14,7 +14,7 @@
         * Export expense reports
         * Multi-user support with privacy controls
     """,
-    'author': 'Your Name',
+    'author': 'Badreddine Derdour',
     'website': 'https://www.dormexpo.com',
     'license': 'LGPL-3',
     'depends': [
